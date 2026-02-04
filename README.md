@@ -26,14 +26,13 @@ to determine how similar they are.
 ## 📊 Output
 
 ### 1️⃣ Time Domain Comparison
-(time.png)
+![Time Domain Output](time.png)
 
 ### 2️⃣ Frequency Domain Comparison
-(frequency.png)
+![Frequency Domain Output](frequency.png)
 
 ### 3️⃣ Similarity Score (Terminal Output)
-(output.png)
-
+![Terminal Output](output.png)
 ## How to Run
 ```bash
 pip install librosa numpy matplotlib scipy
